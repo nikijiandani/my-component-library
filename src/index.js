@@ -9,8 +9,8 @@ import { GlobalStyle } from "./utils";
 const App = () => {
   return (
     <div>
-      <PrimaryButton>Hello world</PrimaryButton>
-      <SecondaryButton>Hey world</SecondaryButton>
+      <PrimaryButton modifiers="small">Hello world</PrimaryButton>
+      <SecondaryButton modifiers={["large"]}>Hey world</SecondaryButton>
       <TertiaryButton>Goodbye world</TertiaryButton>
       <GlobalStyle />
     </div>
