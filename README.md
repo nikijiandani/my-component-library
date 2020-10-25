@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Course website - [https://fem-design-systems.netlify.app/](https://fem-design-systems.netlify.app/)
+Animation example codepen - [https://codesandbox.io/s/fem-react-spring-exercises-forked-r43hr?file=/src/FadeIn.js](https://codesandbox.io/s/fem-react-spring-exercises-forked-r43hr?file=/src/FadeIn.js)
 
 ## Available Scripts
 
